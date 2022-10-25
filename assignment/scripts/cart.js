@@ -49,8 +49,8 @@ listItems();
 
 
 
-empty();
-addItem('pop');
+// empty();
+// addItem('pop');
 // function empty(){
 //     let basket = basket();
 // }
